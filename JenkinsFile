@@ -1,6 +1,6 @@
 node {
     stage 'Clone the project'
-    git 'https://github.com/eugenp/tutorials.git'
+    git 'https://github.com/segunoladapo/Capital-One-Bank-Training-Codebase-.git'
 
     dir('spring-jenkins-pipeline') {
         stage("Compilation and Analysis") {
