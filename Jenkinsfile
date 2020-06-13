@@ -13,6 +13,7 @@ node {
             }, 'Static Analysis': {
                 stage("Checkstyle") {
                    
+                }
             }
         }
 
